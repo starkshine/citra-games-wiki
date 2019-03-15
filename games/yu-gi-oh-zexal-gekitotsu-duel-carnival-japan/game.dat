@@ -1,0 +1,9 @@
+title = "Yu-Gi-Oh! Zexal - Gekitotsu! Duel Carnival! (Japan)"
+description = "Yu-Gi-Oh! Zexal - Gekitotsu! Duel Carnival! is a card game developed and publisher by Konami Digital Entertainment Co., Ltd.\nThis was the first time released in 12/05/2013 on 3DS version. This game is talking about Yu-GI-Oh! Zexal Anime Story on World Duel Carnival what is happen, and the game have the most card numbers of all the Yu-Gi-Oh! card game series."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000F6C00"
+region = "jpn"
+release_date = "2013-12-05"
